@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24178051-0edb-4569-aae5-209115c006ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adapter Design Pattern/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter Design Pattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder Pattern/Builder Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder Pattern/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder Pattern/src/PhoneBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton Design Pattern/Singleton Design Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Singleton Design Pattern/src/Abc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State Design Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StartState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StopState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract Factory Pattern/Abstract Factory Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter Pattern/Adapter Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorater Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorater Pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorater Pattern/Decorater Pattern.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hlfx6KhhumpxgnwRjqjUccLWTR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,8 +44,9 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DHAIRYA PANDYA PERSONAL/System Design (LLD)/State Design Pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718173829499</updated>
       <workItem from="1718173830545" duration="643000" />
+      <workItem from="1719073891616" duration="56000" />
     </task>
     <servers />
   </component>
