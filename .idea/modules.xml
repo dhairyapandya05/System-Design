@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Adapter Pattern/Adapter Pattern1.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Adapter Pattern/Adapter Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/AdapterPattern/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Builder Pattern/Builder Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Builder Pattern/Builder Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatternPractice/designpatterntry2/BuilderPattern/BuilderPattern1.iml" filepath="$PROJECT_DIR$/designpatternPractice/designpatterntry2/BuilderPattern/BuilderPattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorater Pattern/Decorater Pattern.iml" filepath="$PROJECT_DIR$/Decorater Pattern/Decorater Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Decorater Pattern/Decorater Pattern1.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Decorater Pattern/Decorater Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/Decorater Pattern/Decorater Pattern2.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/Decorater Pattern/Decorater Pattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatternPractice/designpatterntry2/DecoraterPattern/DecoraterPattern.iml" filepath="$PROJECT_DIR$/designpatternPractice/designpatterntry2/DecoraterPattern/DecoraterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Factory Pattern/Factory Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Factory Pattern/Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory Pattern/Factory Pattern1.iml" filepath="$PROJECT_DIR$/Factory Pattern/Factory Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/Factory pattern/Factory pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/Factory pattern/Factory pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Observer Pattern/Observer Pattern1.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Observer Pattern/Observer Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Singleton/Singleton1.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/Singleton/Singleton1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/State Pattern/State Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/designpatternPractice/designpatterntry2/State Pattern/State Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatternPractice/designpatterntry2/State Pattern/State Pattern1.iml" filepath="$PROJECT_DIR$/designpatternPractice/designpatterntry2/State Pattern/State Pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/System Design (LLD).iml" filepath="$PROJECT_DIR$/System Design (LLD).iml" />
+    </modules>
+  </component>
+</project>
